@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://cvtheme.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-cv.e--khmer.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-cvtheme.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:senghakk1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-senghakk1234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
