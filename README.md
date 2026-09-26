@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer at E-Khmer Technology</h3>
 
 <p align="center">
-  <a href="https://cv.e-khmer.com" target="_blank">
+  <a href="https://cvtheme.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-cv.e--khmer.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:senghakk1234@gmail.com">
